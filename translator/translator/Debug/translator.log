@@ -1,0 +1,42 @@
+﻿Сборка начата 19.12.2016 15:35:35.
+     1>Проект "C:\Users\eXPert\documents\visual studio 2013\Projects\translator\translator\translator.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(10): warning C4129: i: неизвестная escape-последовательность
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(194): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(314): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(332): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(370): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(401): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(432): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(603): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(609): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(614): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(625): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(644): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(662): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(665): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(680): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(711): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(772): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(786): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(819): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(838): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(859): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(861): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(879): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(897): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(906): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\expert\documents\visual studio 2013\projects\translator\translator\main.cpp(956): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\eXPert\documents\visual studio 2013\Projects\translator\Debug\translator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\eXPert\documents\visual studio 2013\Projects\translator\Debug\translator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\eXPert\documents\visual studio 2013\Projects\translator\Debug\translator.lib" /MACHINE:X86 Debug\main.obj
+         translator.vcxproj -> C:\Users\eXPert\documents\visual studio 2013\Projects\translator\Debug\translator.exe
+     1>Сборка проекта "C:\Users\eXPert\documents\visual studio 2013\Projects\translator\translator\translator.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.49

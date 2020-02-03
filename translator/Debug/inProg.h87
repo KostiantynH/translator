@@ -1,0 +1,29 @@
+MainProgram
+Input Myyyyya;
+
+Output Myyyyya;
+For(;Myyyyya<=[20];Myyyyya::Myyyyya+[1])
+{
+For(Myyyyyc::Myyyyya;Myyyyyc<=[20];Myyyyyc::Myyyyyc+[1])
+{
+Output Myyyyyc;
+
+}
+
+}
+
+
+
+
+
+StartData
+Int32_t Myyyyya;
+Int32_t Myyyyyb;    
+Int32_t Myyyyyc;		
+Int32_t Myyyyyd;
+Int32_t Myyyyye;
+Int32_t Myyyyyf;
+
+End
+
+
